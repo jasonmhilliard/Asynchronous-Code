@@ -3,22 +3,11 @@ Week9: Asynchronous Code
 
 I. File list
 ------------
-CSS Styling and Bootstrap - Microsoft Word Document
-
-indexHTMLStyleExercise - HTML File
-
-cssStyleExercise - CSS File
-
-oneEyeExercise - HTML File
-
-eyesExercise - HTML File
-
-eyes - CSS File
-
+Asynchronous Code - Microsoft Word Document
 
 II. Concept
 ----------
-The word document discusses how HTML, CSS, and JavaScript work together.  It also talks about CSS styles, the grid layout in the DOM and the use of BOOTSTRAP.
+The word document discusses asynchronous coding and provides a simple example. It also talks about promises and async await functions.
 
 The indexHTMLStyleExercise HTML file provides a very basic HTML page layout. When you link the cssStyleExercise CSS file to the HTML document it applies the CSS stylesheet to the HTML page completely changing the layout.  You will need to download both files into the same folder and then drag and drop the HTML file into an empty browser tab. Lastly, you will need to reference the CSS filename by changing the code in your HTML document here: <link rel="stylesheet" href="styles.css">
 
