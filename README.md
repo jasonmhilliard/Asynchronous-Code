@@ -9,9 +9,7 @@ II. Concept
 ----------
 The word document discusses asynchronous coding and provides a simple example. It also talks about promises and async await functions.
 
-The indexHTMLStyleExercise HTML file provides a very basic HTML page layout. When you link the cssStyleExercise CSS file to the HTML document it applies the CSS stylesheet to the HTML page completely changing the layout.  You will need to download both files into the same folder and then drag and drop the HTML file into an empty browser tab. Lastly, you will need to reference the CSS filename by changing the code in your HTML document here: <link rel="stylesheet" href="styles.css">
-
-The oneEyeExercise HTML file is a challenging exercise where you try to create the same effect but using two eyes. The solution set is provided for you. To get started, download the oneEyeExercise HTML file into your browser and notice that as you move the mouse around the eye will follow your mouse movements. Now to create the same effect with two eyes! Can you code it? The solution is provided in the eyesExercise HTML file and the eyes CSS file.
+The indexHTMLStyleExercise HTML file 
 
 
 III. Future Improvements
