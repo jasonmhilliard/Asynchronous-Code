@@ -9,12 +9,10 @@ II. Concept
 ----------
 The word document discusses asynchronous coding and provides a simple example. It also talks about promises and async await functions.
 
-The indexHTMLStyleExercise HTML file 
-
 
 III. Future Improvements
 ----------
-Try the oneEyeExercise with expressions..like angry eyes!
+Expand on asynchronous coding.
 
 IV.  License
 ----------
