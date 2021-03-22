@@ -12,7 +12,7 @@ The word document discusses asynchronous coding and provides a simple example. I
 
 III. Future Improvements
 ----------
-Expand on asynchronous coding.
+Expand on asynchronous coding and show project examples.
 
 IV.  License
 ----------
