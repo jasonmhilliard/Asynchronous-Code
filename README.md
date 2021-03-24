@@ -11,6 +11,12 @@ addMarkersToMap - JavaScript File
 
 style_AddMapMarkers - CSS File
 
+index_html_AddAnimationToMaps - HTML File
+
+addAnimationtoMaps - JavaScript File
+
+style_AddAnimationToMaps - CSS File
+
 
 II. Concept
 ----------
