@@ -1,6 +1,6 @@
 function createMapMarker() {
   // TODO: add your own access token
-  mapboxgl.accessToken = 'pk.eyJ1IjoiamhpbGxkb2c3NyIsImEiOiJja205ZWdzZ2MxZTlrMnRvY3AxN2l0MjlsIn0.6qIrIIhBMQhA_6i8uCAOZQ';
+  mapboxgl.accessToken = 'XXXXX';
 
   let map = new mapboxgl.Map({
     container: 'map',
