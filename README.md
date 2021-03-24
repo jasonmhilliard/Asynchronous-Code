@@ -5,6 +5,11 @@ I. File list
 ------------
 Asynchronous Code - Microsoft Word Document
 
+index_html_AddMapMarkers- HTML File
+
+style_AddMapMarkers - CSS File
+
+
 II. Concept
 ----------
 The word document discusses asynchronous coding and provides a simple example. It also talks about promises and async await functions.
